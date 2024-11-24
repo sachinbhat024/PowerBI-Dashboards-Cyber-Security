@@ -8,6 +8,7 @@ response and management plans, ensuring network and infrastructure security, imp
 data protection measures, conducting security awareness and training campaigns, deploying 
 threat intelligence and security monitoring tools, performing vulnerability management, 
 reporting security incidents, building a sturdy security architecture and more. 
+
 Visualisations hold utmost significance when presenting reports. They enable quick data 
 interpretation to identify patterns and derive insights. Data can be explored by interacting with 
 these visualisations thereby providing a deeper understanding. They make it possible to 
