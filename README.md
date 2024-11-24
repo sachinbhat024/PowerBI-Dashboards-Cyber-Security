@@ -27,7 +27,7 @@ created and worked upon to generate dashboards. These databases were named:
 
 ## Objectives of the BI Dashboards 
 
-1.**Cyber Security Sales Data**: 
+1. **Cyber Security Sales Data**: 
 
 This dashboard has been created to assist the head CSO (Chief Sales Officer) and cyber security 
 sales departments of several companies under one parent company. It keeps a track of the 
@@ -35,7 +35,7 @@ product sales by product type across different regions around the globe. This da
 it easier to track the type of product a particular company is selling and the revenue it has 
 generated. It assists the organisation to monitor and work on areas they are lacking behind. 
 
-2.**Cyber Security Incidents Data**: 
+2. **Cyber Security Incidents Data**: 
 
 This dashboard has been specifically designed to assist the CISO (Chief Information Security 
 Officer) and the cyber security team of a company having its operations in different countries. 
@@ -44,7 +44,7 @@ loss it had caused to the organisation. This dashboard keeps a track of the cybe
 have been made on the company across the world along with the Incident ID, date, and 
 timestamp.
 
-3.**Network Traffic Data**: 
+3. **Network Traffic Data**: 
 
 This dashboard has been specifically created to aid the Network Administrator of the 
 organisation. It keeps a track of the data exchange (interaction) between computer systems 
