@@ -1,4 +1,4 @@
-# Power-BI-and-Database
+# Cyber Security BI Dashboards
 
 A Cyber Security department in an organisation has a very important role to play. They make 
 sure that the company’s data is protected  from cyber-attacks, leaks, and other form of threats. 
