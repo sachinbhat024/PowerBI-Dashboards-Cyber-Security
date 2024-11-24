@@ -1,22 +1,6 @@
 # Cyber Security BI Dashboards 🔐📊
 
-A Cyber Security department in an organisation has a very important role to play. They make 
-sure that the company’s data is protected  from cyber-attacks, leaks, and other form of threats. 
-Usually their work involves performing risk assessment, developing and implementing security 
-strategies and planning, establishing security policies and procedures, developing incident 
-response and management plans, ensuring network and infrastructure security, implementing 
-data protection measures, conducting security awareness and training campaigns, deploying 
-threat intelligence and security monitoring tools, performing vulnerability management, 
-reporting security incidents, building a sturdy security architecture and more. 
-
-Visualisations hold utmost significance when presenting reports. They enable quick data 
-interpretation to identify patterns and derive insights. Data can be explored by interacting with 
-these visualisations thereby providing a deeper understanding. They make it possible to 
-elaborate huge amounts of data to the audience through easy storytelling. Visualisations enable 
-collaboration with other people in the organization, sharing of data, real-time data monitoring 
-and strongly backed decision making. 
-
-This report has been formed while being focused on these grounds. It aims to present valuable 
+This report aims to present valuable 
 information to a cyber security department and high-ranking individuals of a company through 
 visualisations which have been generated using Power BI. Three different databases were 
 created and worked upon to generate dashboards. These databases were named: 
